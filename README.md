@@ -1,6 +1,6 @@
 ## Jerome 1일 1알고리즘
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=third1234&theme=dark)
+![](https://api.mosu.blog/OneDay-OneAlgorithm/JeromeSim?since=2024-07-01&until=2024-08-31)
 
 ## 7월
 
