@@ -2,13 +2,15 @@
 
 ![](https://api.mosu.blog/OneDay-OneAlgorithm/JeromeSim?since=2024-07-01&until=2024-08-31)
 
+**_00000_** <= 다음과 같이 표시된 번호는 대회 문제가 아님 
+
 ## 7월
 
 |  날짜  |                                대회                                |                                                                                            푼 문제                                                                                             |        문제 유형        |
 |:----:|:----------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
 | 7/1  | [제1회 천하제일 코딩대회 본선](https://www.acmicpc.net/category/detail/1749) |                                                [14652](https://www.acmicpc.net/problem/14652) [14653](https://www.acmicpc.net/problem/14653)                                                |       수학 애드혹        |
 | 7/2  | [제1회 천하제일 코딩대회 본선](https://www.acmicpc.net/category/detail/1749) | [14654](https://www.acmicpc.net/problem/14654) [14655](https://www.acmicpc.net/problem/14655) [14656](https://www.acmicpc.net/problem/14656) [14657](https://www.acmicpc.net/problem/14657) | 시뮬레이션 애드혹 구현 트리 DFS |
-| 7/3  | [제1회 천하제일 코딩대회 본선](https://www.acmicpc.net/category/detail/1749) |                                                                       [14658](https://www.acmicpc.net/problem/14658)                                                                        |        브루트포스        |
+| 7/3  | [제1회 천하제일 코딩대회 본선](https://www.acmicpc.net/category/detail/1749) |                  [14658](https://www.acmicpc.net/problem/14658) **_[28702](https://www.acmicpc.net/problem/28702)_** **_[31403](https://www.acmicpc.net/problem/31403)_**                   |        브루트포스        |
 | 7/4  |                                                                  |                                                                                                                                                                                             |                     |
 | 7/5  |                                                                  |                                                                                                                                                                                             |                     |
 | 7/6  |                                                                  |                                                                                                                                                                                             |                     |
