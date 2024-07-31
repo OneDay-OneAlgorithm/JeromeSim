@@ -38,7 +38,7 @@
 | 7/28 |                                                                                                                  |                                                                                                                                                                                             |                     |
 | 7/29 |                                                                                                                  |                                                                     **_[1009](https://www.acmicpc.net/problem/1009)_**                                                                      |         수학          |
 | 7/30 |                            [NZPC 2006](https://www.acmicpc.net/category/detail/1142)                             |                                                                        [1264](https://www.acmicpc.net/problem/1264)                                                                         |         문자열         |
-| 7/31 |                                                                                                                  |                                                                                                                                                                                             |                     |
+| 7/31 |                       [2016 전북대 프로그래밍 경진대회](https://www.acmicpc.net/category/detail/1489)                        |                                                                       [12760](https://www.acmicpc.net/problem/12760)                                                                        |         정렬          |
 
 ## 8월
 
