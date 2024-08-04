@@ -47,7 +47,7 @@
 | 8/1  | [2016 Arab Collegiate Programming Contest](https://www.acmicpc.net/category/detail/2188) |   [18691](https://www.acmicpc.net/problem/18691)   |   수학   |
 | 8/2  |                                                                                          | **_[1247](https://www.acmicpc.net/problem/1247)_** | 큰 수 연산 |
 | 8/3  |                                                                                          | **_[2338](https://www.acmicpc.net/problem/2338)_** | 큰 수 연산 |
-| 8/4  |                                                                                          |                                                    |        |
+| 8/4  | [제1회 한국항공대학교 프로그래밍 경진대회(KAUPC)](https://www.acmicpc.net/category/detail/2838)            |   [23351](https://www.acmicpc.net/problem/23351)   |  그리디   |
 | 8/5  |                                                                                          |                                                    |        |
 | 8/6  |                                                                                          |                                                    |        |
 | 8/7  |                                                                                          |                                                    |        |
